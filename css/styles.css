@@ -157,7 +157,7 @@ header nav .nav-menu .page {
   text-align: center;
 }
 .hero .hero-title {
-  width: 500px;
+  padding:0 20%;
   margin: 20px auto;
   color: var(--primary-white-color);
   font-size: 44px;
